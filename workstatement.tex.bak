@@ -71,22 +71,22 @@ Humana Inc. is a leading health care provider headquartered in Louisville, Kentu
 
 \section{Problem Statement}
 
-Colorectal cancer (CRC) screening is a very effective method in earlier cancer detection. Increase the participating rate of population attend this screening will lower the health cost and survival rate of the cancer. Through a questionnaire survey data conducted in a community population in urban China, this project is aimed to find the cause of the low participation rate and formulate a suitable public health policy to increase the participation rate.  
+Colorectal cancer (CRC) screening is a very effective method in earlier cancer decetion. Increase the participating rate of population attend this screening will lower the health cost and survival rate of the cancer. Through a questionare survery data conducted in a commuity population in urban China, this project is aimed to find the cause of the low particifation rate and formulate a suitable public health policy to increase the participation rate.  
 
 \section{Approach Method} 
-Using control group that match the person who attend the CRC screening with age, gender, equation level ...ect.
+Using contronl group that match the person who attend the CRC screeing with age, gender, eucation level ...ect.
 
 Control 1: included those having a positive test results but refusing a CRC. 
 
 Control 2: included those who refused both positive test results and CRC.
 
-Investigate the correlation between those parameter and the participation rate. After the data analysis, in term of the policy, the corresponding solution such as: 1.Raising the public awareness 2.Painless CRC method needed to be developed 3.Government subsidized the cost of CRC.
-The data analysis in the end of the project should be able to provide the reasoning of choosing the most effective public policy.
+Investigate the correclation between those parameter and the participation rate. After the data analysis, in term of the policy, the corresponding solution such as: 1.Raising the public awarenes 2.Painless CRC method needed to be developped 3.Government subsidized the cost of CRC.
+The data analysis in the end of the project should be able to provice the reasioning of choseing the most effective public policy.
 
 \section{Work Flow Chart}
-The period of performance for the project is beginning on 10/01/2012 through 12/01/2012. All the research will be completed within this time-frame. The final report and presentation will be delivered. Any modifications or extensions will not be allowed.
+The period of performance for the project is beginning on 10/01/2012 through 12/01/2012. All the research will be completed within this timeframe. The final report and presentation will be delivered. Any modifications or extensions will not be allowed.
 
-Below listed major milestones of project€™s different stage. Project will be expected to performing tasks throughout various stages of this project.  The following is a list of these tasks which will result in the successful completion of this project:
+Below listed major milestones of projectâ€™s different stage. Project will be expected to performing tasks throughout various stages of this project.  The following is a list of these tasks which will result in the successful completion of this project:
 
 
 \underline {Kichoff:}
@@ -100,7 +100,7 @@ Below listed major milestones of project€™s different stage. Project will be exp
 
 \underline {Design Phase:}
 \begin{itemize}
-    \item Develop the model to quantify the results of the policies 
+    \item Develop the model to quantify the results of the polies 
     \item Doing regression analysis on categorical analysis on different parameter: sex, gender, race, income level, education level
    \item Modify and finalize the model
     \item Present formal report on the model and model validation
@@ -136,9 +136,9 @@ Proposed deadlines for specific project tasks:
 \subsection{From Team to Sponsor} % (fold)
 The following outputs are expected from this project:
 \begin{itemize}
-    \item regressions analysis of the data on the questionnaire survey data. 
-        Certain correlation relationships between the variables in the survey will be suggested 
-    \item Completed model. Model that able to predict the participating rate of CRC in term of reverent variables.
+    \item regressional analysis of the data on the questionaire survery data. 
+        Certain correctlation relationships between the variables in the survery will be suggested 
+    \item Completed model. Model that able to predict the participating rate of CRC in term of revelent varibales.
     \item Validation of the model using a different population set. 
     \item Corresponding effective public health policy will be provided according to the model claim
     \item Technical report and presentations summarizing the work. 
